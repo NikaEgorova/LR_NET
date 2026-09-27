@@ -1,0 +1,15 @@
+C:\Users\Флагман\source\repos\yehorovaLR1\yehorovaLR1\bin\Debug\net10.0\yehorovaLR1.exe
+C:\Users\Флагман\source\repos\yehorovaLR1\yehorovaLR1\bin\Debug\net10.0\yehorovaLR1.deps.json
+C:\Users\Флагман\source\repos\yehorovaLR1\yehorovaLR1\bin\Debug\net10.0\yehorovaLR1.runtimeconfig.json
+C:\Users\Флагман\source\repos\yehorovaLR1\yehorovaLR1\bin\Debug\net10.0\yehorovaLR1.dll
+C:\Users\Флагман\source\repos\yehorovaLR1\yehorovaLR1\bin\Debug\net10.0\yehorovaLR1.pdb
+C:\Users\Флагман\source\repos\yehorovaLR1\yehorovaLR1\obj\Debug\net10.0\yehorovaLR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Флагман\source\repos\yehorovaLR1\yehorovaLR1\obj\Debug\net10.0\yehorovaLR1.AssemblyInfoInputs.cache
+C:\Users\Флагман\source\repos\yehorovaLR1\yehorovaLR1\obj\Debug\net10.0\yehorovaLR1.AssemblyInfo.cs
+C:\Users\Флагман\source\repos\yehorovaLR1\yehorovaLR1\obj\Debug\net10.0\yehorovaLR1.csproj.CoreCompileInputs.cache
+C:\Users\Флагман\source\repos\yehorovaLR1\yehorovaLR1\obj\Debug\net10.0\yehorovaLR1.dll
+C:\Users\Флагман\source\repos\yehorovaLR1\yehorovaLR1\obj\Debug\net10.0\refint\yehorovaLR1.dll
+C:\Users\Флагман\source\repos\yehorovaLR1\yehorovaLR1\obj\Debug\net10.0\yehorovaLR1.pdb
+C:\Users\Флагман\source\repos\yehorovaLR1\yehorovaLR1\obj\Debug\net10.0\yehorovaLR1.genruntimeconfig.cache
+C:\Users\Флагман\source\repos\yehorovaLR1\yehorovaLR1\obj\Debug\net10.0\ref\yehorovaLR1.dll
+C:\Users\Флагман\source\repos\yehorovaLR1\yehorovaLR1\obj\Debug\net10.0\yehorova.2CB3D63C.Up2Date
