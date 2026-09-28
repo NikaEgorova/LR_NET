@@ -1,0 +1,13 @@
+C:\Users\Флагман\source\repos\YehorovaLR9\YehorovaLR9\bin\Debug\YehorovaLR9.exe.config
+C:\Users\Флагман\source\repos\YehorovaLR9\YehorovaLR9\bin\Debug\YehorovaLR9.exe
+C:\Users\Флагман\source\repos\YehorovaLR9\YehorovaLR9\bin\Debug\YehorovaLR9.pdb
+C:\Users\Флагман\source\repos\YehorovaLR9\YehorovaLR9\bin\Debug\uk-UA\YehorovaLR9.resources.dll
+C:\Users\Флагман\source\repos\YehorovaLR9\YehorovaLR9\obj\Debug\YehorovaLR9.csproj.AssemblyReference.cache
+C:\Users\Флагман\source\repos\YehorovaLR9\YehorovaLR9\obj\Debug\YehorovaLR9.Form1.resources
+C:\Users\Флагман\source\repos\YehorovaLR9\YehorovaLR9\obj\Debug\YehorovaLR9.Properties.Resources.resources
+C:\Users\Флагман\source\repos\YehorovaLR9\YehorovaLR9\obj\Debug\YehorovaLR9.Form1.uk-UA.resources
+C:\Users\Флагман\source\repos\YehorovaLR9\YehorovaLR9\obj\Debug\YehorovaLR9.csproj.GenerateResource.cache
+C:\Users\Флагман\source\repos\YehorovaLR9\YehorovaLR9\obj\Debug\YehorovaLR9.csproj.CoreCompileInputs.cache
+C:\Users\Флагман\source\repos\YehorovaLR9\YehorovaLR9\obj\Debug\uk-UA\YehorovaLR9.resources.dll
+C:\Users\Флагман\source\repos\YehorovaLR9\YehorovaLR9\obj\Debug\YehorovaLR9.exe
+C:\Users\Флагман\source\repos\YehorovaLR9\YehorovaLR9\obj\Debug\YehorovaLR9.pdb
